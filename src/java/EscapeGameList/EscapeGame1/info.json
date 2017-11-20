@@ -1,0 +1,17 @@
+{
+"nom":"Nom de l'escape game",
+"nb de room":6,
+"addresse":
+	{
+	"numero":1,
+	"rue":"rue de la paix",
+	"code postal":75001,
+	"ville":"Paris"
+	},
+"prix":
+	{
+	"min":20,
+	"max":30
+	},
+"description":"Ceci est la description de l'escape game numero 1"
+}
